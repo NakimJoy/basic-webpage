@@ -49,6 +49,12 @@ ul {
     flex: 2;
 }
 
+.picture {
+    background-image:url(table\ mountain.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 .profile-pic {
     margin: 0 auto;
     /* Push the image to the right edge */
